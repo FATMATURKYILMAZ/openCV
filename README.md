@@ -1,2 +1,2 @@
 # openCV
-<img src="bitwiseAND.PNG" width="250" height="250">
+<img src="bitwiseAND.PNG" width="150" height="150">
