@@ -1,4 +1,5 @@
 # openCV
+<br>
 ##Sketched bitwise operators using opencv
 <img src="bitwiseAND.PNG" width="150" height="150" alt="bitwise AND operator"><p>Bitwise AND operator</p>
 <img src="bitwiseOR.PNG" width="150" height="150" alt="bitwise OR operator"><p>Bitwise OR operator</p>
